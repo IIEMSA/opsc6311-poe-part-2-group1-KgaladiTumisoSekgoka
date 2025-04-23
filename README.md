@@ -17,6 +17,8 @@ OR
 ## GitHub Repository:
 
 [https://github.com/KgaladiTumisoSekgoka/TeamCollaboration-Vaultwise]
+OR
+[https://github.com/IIEMSA/opsc6311-poe-part-2-group1-KgaladiTumisoSekgoka.git]
 
 ---
 
